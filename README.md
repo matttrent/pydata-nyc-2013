@@ -11,4 +11,4 @@ Place the zipfile in this directory, unzip and you're good to go.
 
 The slides for the presentation are available on [Speaker Deck][].
 
-[SpeakerDeck]: https://speakerdeck.com/matttrent/image-features-in-python
+[Speaker Deck]: https://speakerdeck.com/matttrent/image-features-in-python
