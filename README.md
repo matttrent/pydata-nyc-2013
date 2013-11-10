@@ -8,3 +8,7 @@ In order to run the bag of words notebook, you need the images.  The zip file of
 [available here]: https://dl.dropboxusercontent.com/u/367147/photos.zip
 
 Place the zipfile in this directory, unzip and you're good to go.
+
+The slides for the presentation are available on [Speaker Deck][].
+
+[SpeakerDeck]: https://speakerdeck.com/matttrent/image-features-in-python
