@@ -13,6 +13,10 @@ The slides for the presentation are available on [Speaker Deck][].
 
 [Speaker Deck]: https://speakerdeck.com/matttrent/image-features-in-python
 
+The video for the talk is available on [Vimeo][].
+
+[Vimeo]:    https://vimeo.com/79536175
+
 Abstract
 --------
 
